@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<loginTicketResponse version="1.0">
+    <header>
+        <source>CN=wsaahomo, O=AFIP, C=AR, SERIALNUMBER=CUIT 33693450239</source>
+        <destination>SERIALNUMBER=CUIT 20339698407, CN=sylopersoft</destination>
+        <uniqueId>3453421490</uniqueId>
+        <generationTime>2022-12-21T09:41:36.165-03:00</generationTime>
+        <expirationTime>2022-12-21T21:41:36.165-03:00</expirationTime>
+    </header>
+    <credentials>
+        <token>PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiIHN0YW5kYWxvbmU9InllcyI/Pgo8c3NvIHZlcnNpb249IjIuMCI+CiAgICA8aWQgc3JjPSJDTj13c2FhaG9tbywgTz1BRklQLCBDPUFSLCBTRVJJQUxOVU1CRVI9Q1VJVCAzMzY5MzQ1MDIzOSIgZHN0PSJDTj13c2ZlLCBPPUFGSVAsIEM9QVIiIHVuaXF1ZV9pZD0iMjU2Mjg2NTY0MCIgZ2VuX3RpbWU9IjE2NzE2MjY0MzYiIGV4cF90aW1lPSIxNjcxNjY5Njk2Ii8+CiAgICA8b3BlcmF0aW9uIHR5cGU9ImxvZ2luIiB2YWx1ZT0iZ3JhbnRlZCI+CiAgICAgICAgPGxvZ2luIGVudGl0eT0iMzM2OTM0NTAyMzkiIHNlcnZpY2U9IndzZmUiIHVpZD0iU0VSSUFMTlVNQkVSPUNVSVQgMjAzMzk2OTg0MDcsIENOPXN5bG9wZXJzb2Z0IiBhdXRobWV0aG9kPSJjbXMiIHJlZ21ldGhvZD0iMjIiPgogICAgICAgICAgICA8cmVsYXRpb25zPgogICAgICAgICAgICAgICAgPHJlbGF0aW9uIGtleT0iMjAzMzk2OTg0MDciIHJlbHR5cGU9IjQiLz4KICAgICAgICAgICAgPC9yZWxhdGlvbnM+CiAgICAgICAgPC9sb2dpbj4KICAgIDwvb3BlcmF0aW9uPgo8L3Nzbz4K</token>
+        <sign>koy9TXYZDsba9g3D0adc2jNdOZkydB/qTIametNDIzQ9pdWa1e1Rx1/V3jMHHHxeHxDph5aglDaCK+td7T+Na/thoBhDslLDAOkKGwY51KQI5+t92MRNQ53fu0Ouyo5d2bkFuziNMgcSMMuSa3wl7KT9ZPGvIrpGQVvXr77r3Z4=</sign>
+    </credentials>
+</loginTicketResponse>

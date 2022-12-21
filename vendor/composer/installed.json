@@ -1,0 +1,60 @@
+{
+    "packages": [
+        {
+            "name": "afipsdk/afip.php",
+            "version": "v0.7.6",
+            "version_normalized": "0.7.6.0",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/AfipSDK/afip.php.git",
+                "reference": "71325880bf0a21d956a9770d3fc99df2c8a89c1c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/AfipSDK/afip.php/zipball/71325880bf0a21d956a9770d3fc99df2c8a89c1c",
+                "reference": "71325880bf0a21d956a9770d3fc99df2c8a89c1c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.3"
+            },
+            "time": "2022-12-01T00:55:19+00:00",
+            "type": "library",
+            "installation-source": "dist",
+            "autoload": {
+                "files": [
+                    "src/Afip.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Afip SDK",
+                    "email": "afipsdk@gmail.com"
+                }
+            ],
+            "description": "Libreria para usar los Web Services de AFIP (Argentina) ",
+            "homepage": "https://github.com/afipsdk/afip.php",
+            "keywords": [
+                "afip",
+                "cae",
+                "contribuyente",
+                "facturacion-electronica",
+                "gratis",
+                "libreria",
+                "padron",
+                "soap"
+            ],
+            "support": {
+                "issues": "https://github.com/AfipSDK/afip.php/issues",
+                "source": "https://github.com/AfipSDK/afip.php/tree/v0.7.6"
+            },
+            "install-path": "../afipsdk/afip.php"
+        }
+    ],
+    "dev": true,
+    "dev-package-names": []
+}
